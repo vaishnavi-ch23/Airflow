@@ -1,0 +1,7 @@
+astro dev start           -starting UI
+astro dev stop
+
+podman machine start      -starting podman machine
+podman mchine stop        -stopping
+
+astro dev restart

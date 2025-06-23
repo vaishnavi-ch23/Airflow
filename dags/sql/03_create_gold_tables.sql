@@ -1,0 +1,1 @@
+-- Add your DIM/FACT table creation SQL here
